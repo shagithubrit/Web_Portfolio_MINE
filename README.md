@@ -5,7 +5,6 @@ As a demonstration of my proficiency in front-end development, I have meticulous
 
 
 https://user-images.githubusercontent.com/99074815/234883056-4c59e3ab-6b18-4cb3-9d55-324220dac25a.mp4
-![Web capture_27-4-2023_174130_](https://user-images.githubusercontent.com/99074815/234858364-2b57cf56-c92f-4ca4-b190-fb13f8c6f9a8.jpeg)
 
 
 
