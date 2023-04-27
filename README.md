@@ -15,4 +15,4 @@ https://user-images.githubusercontent.com/99074815/234883056-4c59e3ab-6b18-4cb3-
 
 
 CONTRIBUTOR:
-Shashwat Kapoor (https://github.com/shagithubrit)
+[Shashwat Kapoor](https://www.linkedin.com/in/shashwat-kapoor-20b259196/)
